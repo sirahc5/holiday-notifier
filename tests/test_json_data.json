@@ -1,0 +1,17 @@
+{
+    "response": {
+      "holidays": [
+        {
+          "name": "test name",
+          "description": "test description",
+          "country": {
+            "name": "test country"
+            },
+          "date": {
+            "iso": "0000-00-00"
+            },
+          "type": ["test holiday type"]
+        }
+      ]
+    }
+}
